@@ -4,7 +4,7 @@
 
 This is simple Alfred 2 workflow for generating .htpasswd string, or simply to generate md5 hash from given string
 
-# Installation 
+# Installation
 
 Detailed instructions on how to import and setup workflow can be found [here](http://blog.alfredapp.com/2014/04/02/tutorial-importing-and-setting-up-alfred-workflows/), but basicaly open up Alfred, go to settings and all you need to is drag&drop workflow file into Alfred
 
@@ -33,7 +33,7 @@ To generate user that will have access to protected folder, you will need to def
 ##Changelog
 
 * **Version 1.0**
- 
+
  MD5 Hasher is born :)
 
 ##Final words
