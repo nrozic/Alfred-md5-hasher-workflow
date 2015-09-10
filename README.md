@@ -1,6 +1,6 @@
 # MD5 Hasher (Alfred workflow)
 
-[![Version](https://img.shields.io/badge/Version-1.0-green.svg)](https://github.com/nrozic/Alfred-md5-hasher-workflow)
+[![Version](https://img.shields.io/badge/Version-1.0.1-green.svg)](https://github.com/nrozic/Alfred-md5-hasher-workflow)
 
 This is simple Alfred 2 workflow for generating .htpasswd string, or simply to generate md5 hash from given string
 
@@ -37,6 +37,10 @@ Here is YouTube link to [se it in action](https://youtu.be/aNlTIbmhKpM)
 * **Version 1.0**
 
  MD5 Hasher is born :)
+
+* **Version 1.0.1**
+ 
+ Fixed encryption bug that caused password mismatch while generating .htpasswd username:password string
 
 ##Final words
 If you have any suggestions on how to improve this workflow, or you have suggestions for new workflows, drop me a line on info [at] trilium.io, or you can follow me on [twitter](https://twitter.com/nikolarozic)
