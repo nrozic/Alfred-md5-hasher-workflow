@@ -30,7 +30,7 @@ To generate user that will have access to protected folder, you will need to def
 * Enter desired username and password **separated with space** and hit enter
 * Done, alfred will copy md5 into your clipboard and try to paste it for you
 
-Here is YouTube link to [se it in action](https://youtu.be/aNlTIbmhKpM)
+Here is YouTube link to [see it in action](https://youtu.be/aNlTIbmhKpM)
 
 ##Changelog
 
