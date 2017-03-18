@@ -32,7 +32,7 @@ To generate user that will have access to protected folder, you will need to def
 
 Here is YouTube link to [see it in action](https://youtu.be/aNlTIbmhKpM)
 
-##Changelog
+## Changelog
 
 * **Version 1.0**
 
