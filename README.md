@@ -42,5 +42,5 @@ Here is YouTube link to [see it in action](https://youtu.be/aNlTIbmhKpM)
  
  Fixed encryption bug that caused password mismatch while generating .htpasswd username:password string
 
-##Final words
+## Final words
 If you have any suggestions on how to improve this workflow, or you have suggestions for new workflows, drop me a line on info [at] trilium.io, or you can follow me on [twitter](https://twitter.com/nikolarozic)
